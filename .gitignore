@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+ 
+# AI Skills
+*.skill
+temp_skill/
+.agent/
