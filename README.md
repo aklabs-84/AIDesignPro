@@ -45,4 +45,13 @@ npm run dev
 
 ---
 
+## 🏢 아크랩스 (AK LABS) 소개
+
+**아크랩스(AK LABS)**는 누구나 인공지능을 더 쉽고 똑똑하게 활용할 수 있도록 돕는 AI 서비스 빌더이자 커뮤니티입니다. 바이브코딩과 다양한 AI 프롬프트 실험을 통해 실무에 바로 적용 가능한 AI 솔루션을 탐구합니다.
+
+- **공식 홈페이지**: [https://litt.ly/aklabs](https://litt.ly/aklabs)
+- **주요 활동**: AI 앱 개발, 프롬프트 엔지니어링 랩, AI 교육 및 커뮤니티 운영
+
+---
+
 **Developed for Advanced Agentic Coding by Antigravity**
