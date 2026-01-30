@@ -1,0 +1,5 @@
+{
+  "name": "AI 디자인 리컨스트럭터 (Design Re-constructor)",
+  "description": "이미지를 분석하여 텍스트, 도형, 이미지 요소를 분리하고 편집 가능한 디지털 레이아웃으로 재구성합니다.",
+  "requestFramePermissions": []
+}
